@@ -1,6 +1,6 @@
 ## Hi, I'm Akash Mukherjee 👋
 [<img src='https://github.com/akashm01github/akashm01github/blob/main/img/bg.png?raw=true' alt='Akash Mukherjee'
->](https://github.com/shovoalways/)
+>](https://github.com/akashm01github/)
 <p>
 👑 I am Web Developer <br> 
 🖊️ Love to write code <br> 
