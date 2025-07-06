@@ -25,12 +25,9 @@ Hi, I'm Akash Mukherjee, a passionate Frontend Developer with a strong foundatio
 
 ## ☕ Connect with me!
 
-<a href="https://twitter.com/dev_akash001" target="_blank">
-  <img src="https://github.com/akashm01github/akashm01github/blob/main/img/twitter.png?raw=true" alt="Twitter" height="30" />
-</a>
-<a href="https://www.linkedin.com/in/mukherjee-akash/" target="_blank">
-  <img src="https://github.com/akashm01github/akashm01github/blob/main/img/linkedin.png?raw=true" alt="LinkedIn" height="30" />
-</a>
+[![Twitter](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dev_akash001)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukherjee-akash/)
+
 
 
 ## 📧 For Business Inquiries 
