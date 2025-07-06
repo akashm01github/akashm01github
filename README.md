@@ -24,8 +24,14 @@ Hi, I'm Akash Mukherjee, a passionate Frontend Developer with a strong foundatio
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashm01github&layout=compact)
 
 ## ☕ Connect with me!
-[<img src='https://github.com/akashm01github/akashm01github/blob/main/img/twitter.png?raw=true' alt='Twitter' height='30'>](https://twitter.com/dev_akash001)
-[<img src='https://github.com/akashm01github/akashm01github/blob/main/img/linkedin.png?raw=true' alt='LinkedIn' height='30'>](https://www.linkedin.com/in/mukherjee-akash/)
+
+<a href="https://twitter.com/dev_akash001" target="_blank">
+  <img src="https://github.com/akashm01github/akashm01github/blob/main/img/twitter.png?raw=true" alt="Twitter" height="30" />
+</a>
+<a href="https://www.linkedin.com/in/mukherjee-akash/" target="_blank">
+  <img src="https://github.com/akashm01github/akashm01github/blob/main/img/linkedin.png?raw=true" alt="LinkedIn" height="30" />
+</a>
+
 
 ## 📧 For Business Inquiries 
 ✅  ► whoakashmukherjee@gmail.com
