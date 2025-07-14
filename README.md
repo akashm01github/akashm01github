@@ -31,4 +31,4 @@ Hi, I'm Akash Mukherjee, a passionate Frontend Developer with a strong foundatio
 
 
 ## 📧 For Business Inquiries 
-✅  ► whoakashmukherjee@gmail.com
+✅  ► akashm.codes@gmail.com
