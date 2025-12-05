@@ -21,7 +21,8 @@ Hi, I'm Akash Mukherjee, a passionate Frontend Developer with a strong foundatio
 ✅ Git / GitHub <br>
 ✅ Figma<br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akashm01github&theme=radical)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Frontend+Developer;Open+Source+Enthusiast;Always+learning+new+things;Problem+Solver)](https://git.io/typing-svg)
+
 
 
 ## ☕ Connect with me!
