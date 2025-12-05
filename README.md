@@ -21,14 +21,7 @@ Hi, I'm Akash Mukherjee, a passionate Frontend Developer with a strong foundatio
 ✅ Git / GitHub <br>
 ✅ Figma<br>
 
-## 💻 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akashm01github&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## ☕ Connect with me!
