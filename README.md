@@ -21,7 +21,7 @@ Hi, I'm Akash Mukherjee, a passionate Frontend Developer with a strong foundatio
 ✅ Git / GitHub <br>
 ✅ Figma<br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akashm01github&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akashm01github&theme=radical)
 
 
 ## ☕ Connect with me!
