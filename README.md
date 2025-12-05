@@ -21,7 +21,7 @@ Hi, I'm Akash Mukherjee, a passionate Frontend Developer with a strong foundatio
 ✅ Git / GitHub <br>
 ✅ Figma<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashm01github&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashm01github&layout=compact&theme=radical)
 
 ## ☕ Connect with me!
 
