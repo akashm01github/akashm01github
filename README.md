@@ -5,6 +5,8 @@
 🖊️ Love to write code <br> 
 🎤 Like to share my knowledge </p> 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Frontend+Developer;Open+Source+Enthusiast;Always+learning+new+things;Problem+Solver)](https://git.io/typing-svg)
+
 <p align="left"> 
   <a href="https://x.com/dev_akash001" target="blank">
     <img src="https://img.shields.io/twitter/follow/dev_akash001?logo=twitter&style=for-the-badge" alt="Twitter Follow">
@@ -20,8 +22,6 @@ Hi, I'm Akash Mukherjee, a passionate Frontend Developer with a strong foundatio
 ✅ Java <br>
 ✅ Git / GitHub <br>
 ✅ Figma<br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Frontend+Developer;Open+Source+Enthusiast;Always+learning+new+things;Problem+Solver)](https://git.io/typing-svg)
 
 
 
