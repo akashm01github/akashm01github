@@ -17,9 +17,10 @@
 Hi, I'm Akash Mukherjee, a passionate Frontend Developer with a strong foundation in HTML, CSS, and JavaScript. I also have experience in Java, Data Structures and Algorithms, and am proficient in React. My technical toolkit includes Figma for design, Git for version control, and Linux for system management. I thrive on creating seamless and responsive web applications and am dedicated to writing clean, efficient code while continuously enhancing my skills. Explore my projects to see what I’ve been working on, and feel free to connect with me!
 
 ## 👨‍💻 Skills & Experience: 
-✅ HTML5 / CSS3 / SASS / Bootstrap <br> 
+✅ HTML5 / CSS3 / SASS / Tailwind CSS <br> 
 ✅ JavaScript <br>
-✅ Java <br>
+✅ React JS <br>
+✅ Redux / Redux Toolkit <br>
 ✅ Git / GitHub <br>
 ✅ Figma<br>
 
